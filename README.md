@@ -1,4 +1,4 @@
-# ¡Hola! Soy Diego Bohórquez 👋
+# ¡Hola! Soy Juan Diego Bohórquez 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-blue?style=for-the-badge" alt="Ingeniería de Sistemas">
